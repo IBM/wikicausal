@@ -1,0 +1,433 @@
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "suicide", "id": ["Q10737"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "disease", "id": ["Q12136"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "tsunami", "id": ["Q8070"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "illness", "id": ["Q12136"]}}
+{"cause": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "famine", "id": ["Q168247"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "suicide", "id": ["Q10737"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "homicide", "id": ["Q149086"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "condition", "id": ["Q12136"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "arson", "id": ["Q327541"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "outbreak", "id": ["Q3241045", "Q44512"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "explosion", "id": ["Q179057"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "war", "id": ["Q198"]}}
+{"cause": {"label": "quake", "id": ["Q7944"]}, "effect": {"label": "tsunami", "id": ["Q8070"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "diseases", "id": ["Q12136"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "protests", "id": ["Q273120"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "arson", "id": ["Q327541"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "illness", "id": ["Q12136"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "war", "id": ["Q198"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "homicide", "id": ["Q149086"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "accident", "id": ["Q171558"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "morbidity", "id": ["Q4"]}}
+{"cause": {"label": "wars", "id": ["Q198"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "disputes", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "tsunami", "id": ["Q8070"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "disease", "id": ["Q12136"]}}
+{"cause": {"label": "eruption", "id": ["Q7692360"]}, "effect": {"label": "tsunami", "id": ["Q8070"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "landslide", "id": ["Q167903", "Q1309431"]}}
+{"cause": {"label": "hazard", "id": ["Q1132455"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "hazard", "id": ["Q1132455"]}, "effect": {"label": "accident", "id": ["Q171558"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "infection", "id": ["Q18123741"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "collapse", "id": ["Q1309431"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "outbreak", "id": ["Q3241045", "Q44512"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "demonstrations", "id": ["Q273120"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "riot", "id": ["Q124757"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "revolution", "id": ["Q10931", "Q1673271"]}}
+{"cause": {"label": "offense", "id": ["Q83267"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "offence", "id": ["Q83267"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "ptsd", "id": ["Q202387"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "blast", "id": ["Q179057"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "dispute", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "war", "id": ["Q198"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "riots", "id": ["Q124757"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "crime", "id": ["Q83267"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "hunger", "id": ["Q165947"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "epidemics", "id": ["Q44512"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "famine", "id": ["Q168247"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "hunger", "id": ["Q165947"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "disorder", "id": ["Q12136"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "disasters", "id": ["Q3839081"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "explosion", "id": ["Q179057"]}}
+{"cause": {"label": "disasters", "id": ["Q3839081"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "riots", "id": ["Q124757"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "arson", "id": ["Q327541"]}, "effect": {"label": "blaze", "id": ["Q168983"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "flooding", "id": ["Q8068"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "fraud", "id": ["Q28813"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}, "effect": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "accident", "id": ["Q171558"]}}
+{"cause": {"label": "riots", "id": ["Q124757"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "quake", "id": ["Q7944"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "hazard", "id": ["Q1132455"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "wounds", "id": ["Q193078"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "attack", "id": ["Q2001676", "Q1174599"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "fraud", "id": ["Q28813"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "disasters", "id": ["Q3839081"]}}
+{"cause": {"label": "wars", "id": ["Q198"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "sickness", "id": ["Q12136"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "wars", "id": ["Q198"]}, "effect": {"label": "famine", "id": ["Q168247"]}}
+{"cause": {"label": "scandal", "id": ["Q192909"]}, "effect": {"label": "resignation", "id": ["Q796919"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "wars", "id": ["Q198"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "tremor", "id": ["Q7944"]}}
+{"cause": {"label": "epidemics", "id": ["Q44512"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "mishap", "id": ["Q171558"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "syndrome", "id": ["Q179630"]}}
+{"cause": {"label": "bombing", "id": ["Q678146", "Q891854"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "riots", "id": ["Q124757"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "condition", "id": ["Q12136"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "war", "id": ["Q198"]}}
+{"cause": {"label": "disasters", "id": ["Q3839081"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "recession", "id": ["Q176494"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}}
+{"cause": {"label": "offence", "id": ["Q83267"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "protest", "id": ["Q175331", "Q273120"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "blast", "id": ["Q179057"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "wars", "id": ["Q198"]}}
+{"cause": {"label": "disagreements", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "blast", "id": ["Q179057"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "hazard", "id": ["Q1132455"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "murders", "id": ["Q132821"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "catastrophe", "id": ["Q3839081"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "incident", "id": ["Q18669875"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "collapse", "id": ["Q1309431"]}}
+{"cause": {"label": "protests", "id": ["Q273120"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "disruption", "id": ["Q2956685"]}}
+{"cause": {"label": "bombing", "id": ["Q678146", "Q891854"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "eruption", "id": ["Q7692360"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "disputes", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "war", "id": ["Q198"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "flooding", "id": ["Q8068"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "tsunami", "id": ["Q8070"]}}
+{"cause": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "dispute", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}}
+{"cause": {"label": "disasters", "id": ["Q3839081"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "bombing", "id": ["Q678146", "Q891854"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "hazard", "id": ["Q1132455"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}}
+{"cause": {"label": "quake", "id": ["Q7944"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "blackout", "id": ["Q828827"]}}
+{"cause": {"label": "boom", "id": ["Q179057"]}, "effect": {"label": "recession", "id": ["Q176494"]}}
+{"cause": {"label": "coup", "id": ["Q45382"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "accident", "id": ["Q171558"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "accident", "id": ["Q171558"]}}
+{"cause": {"label": "offence", "id": ["Q83267"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "mishap", "id": ["Q171558"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "unemployment", "id": ["Q41171"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "earthquakes", "id": ["Q7944"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "disasters", "id": ["Q3839081"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "looting", "id": ["Q192623"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "offense", "id": ["Q83267"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "disasters", "id": ["Q3839081"]}, "effect": {"label": "disruption", "id": ["Q2956685"]}}
+{"cause": {"label": "disagreements", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "wars", "id": ["Q198"]}}
+{"cause": {"label": "pestilence", "id": ["Q18123741"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "arson", "id": ["Q327541"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "blast", "id": ["Q179057"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "disagreements", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "war", "id": ["Q198"]}}
+{"cause": {"label": "fraud", "id": ["Q28813"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "migration", "id": ["Q177626"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "catastrophe", "id": ["Q3839081"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "migration", "id": ["Q177626"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "flooding", "id": ["Q8068"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "arson", "id": ["Q327541"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "dispute", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "strike", "id": ["Q49776"]}}
+{"cause": {"label": "bombing", "id": ["Q678146", "Q891854"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "avalanche", "id": ["Q7935"]}}
+{"cause": {"label": "misadventure", "id": ["Q171558"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "blockage", "id": ["Q2956685"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "flood", "id": ["Q8068"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "landslide", "id": ["Q167903", "Q1309431"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "tsunami", "id": ["Q8070"]}}
+{"cause": {"label": "disagreements", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "attack", "id": ["Q2001676", "Q1174599"]}}
+{"cause": {"label": "blast", "id": ["Q179057"]}, "effect": {"label": "earthquake", "id": ["Q7944"]}}
+{"cause": {"label": "suicide", "id": ["Q10737"]}, "effect": {"label": "homicide", "id": ["Q149086"]}}
+{"cause": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}, "effect": {"label": "riot", "id": ["Q124757"]}}
+{"cause": {"label": "quake", "id": ["Q7944"]}, "effect": {"label": "landslide", "id": ["Q167903", "Q1309431"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "mudslide", "id": ["Q175768"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "landslide", "id": ["Q167903", "Q1309431"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "war", "id": ["Q198"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "illness", "id": ["Q12136"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "eruption", "id": ["Q7692360"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "earthquake", "id": ["Q7944"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "explosion", "id": ["Q179057"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "revolution", "id": ["Q10931", "Q1673271"]}}
+{"cause": {"label": "protests", "id": ["Q273120"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "disease", "id": ["Q12136"]}}
+{"cause": {"label": "protests", "id": ["Q273120"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "law", "id": ["Q49371"]}}
+{"cause": {"label": "wars", "id": ["Q198"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "tremor", "id": ["Q7944"]}, "effect": {"label": "tsunami", "id": ["Q8070"]}}
+{"cause": {"label": "offense", "id": ["Q83267"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "eruption", "id": ["Q7692360"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "hazard", "id": ["Q1132455"]}, "effect": {"label": "disease", "id": ["Q12136"]}}
+{"cause": {"label": "demonstrations", "id": ["Q273120"]}, "effect": {"label": "riots", "id": ["Q124757"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "avalanches", "id": ["Q7935"]}}
+{"cause": {"label": "offense", "id": ["Q83267"]}, "effect": {"label": "accident", "id": ["Q171558"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "homicide", "id": ["Q149086"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "blaze", "id": ["Q168983"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "wounds", "id": ["Q193078"]}}
+{"cause": {"label": "mishap", "id": ["Q171558"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "massacre", "id": ["Q3199915"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "explosion", "id": ["Q179057"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "occupation", "id": ["Q194465", "Q528892", "Q188686"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "offense", "id": ["Q83267"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "morbidity", "id": ["Q4"]}}
+{"cause": {"label": "demonstrations", "id": ["Q273120"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "flood", "id": ["Q8068"]}}
+{"cause": {"label": "dispute", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "suicide", "id": ["Q10737"]}}
+{"cause": {"label": "demonstration", "id": ["Q175331", "Q273120"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "blast", "id": ["Q179057"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "shrinkage", "id": ["Q3043473"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "disease", "id": ["Q12136"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}}
+{"cause": {"label": "riot", "id": ["Q124757"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "sickness", "id": ["Q12136"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "sensation", "id": ["Q3955369"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "fraud", "id": ["Q28813"]}, "effect": {"label": "recession", "id": ["Q176494"]}}
+{"cause": {"label": "outbreak", "id": ["Q3241045", "Q44512"]}, "effect": {"label": "infection", "id": ["Q18123741"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "unemployment", "id": ["Q41171"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "earthquakes", "id": ["Q7944"]}}
+{"cause": {"label": "hazard", "id": ["Q1132455"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "disagreement", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}}
+{"cause": {"label": "coup", "id": ["Q45382"]}, "effect": {"label": "war", "id": ["Q198"]}}
+{"cause": {"label": "wars", "id": ["Q198"]}, "effect": {"label": "epidemics", "id": ["Q44512"]}}
+{"cause": {"label": "scandal", "id": ["Q192909"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "controversies", "id": ["Q1255828"]}}
+{"cause": {"label": "eruption", "id": ["Q7692360"]}, "effect": {"label": "eruption", "id": ["Q7692360"]}}
+{"cause": {"label": "outbreak", "id": ["Q3241045", "Q44512"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "collapse", "id": ["Q1309431"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "outbreak", "id": ["Q3241045", "Q44512"]}}
+{"cause": {"label": "dispute", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "ban", "id": ["Q621608"]}}
+{"cause": {"label": "fraud", "id": ["Q28813"]}, "effect": {"label": "bankruptcy", "id": ["Q152074"]}}
+{"cause": {"label": "shortage", "id": ["Q1337691", "Q815758"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "eruption", "id": ["Q7692360"]}, "effect": {"label": "earthquake", "id": ["Q7944"]}}
+{"cause": {"label": "bombing", "id": ["Q678146", "Q891854"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "protests", "id": ["Q273120"]}, "effect": {"label": "riots", "id": ["Q124757"]}}
+{"cause": {"label": "quake", "id": ["Q7944"]}, "effect": {"label": "disruption", "id": ["Q2956685"]}}
+{"cause": {"label": "riot", "id": ["Q124757"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "riots", "id": ["Q124757"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "riots", "id": ["Q124757"]}, "effect": {"label": "looting", "id": ["Q192623"]}}
+{"cause": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}, "effect": {"label": "sensation", "id": ["Q3955369"]}}
+{"cause": {"label": "riots", "id": ["Q124757"]}, "effect": {"label": "demonstrations", "id": ["Q273120"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "disasters", "id": ["Q3839081"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "disasters", "id": ["Q3839081"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "protest", "id": ["Q175331", "Q273120"]}, "effect": {"label": "riots", "id": ["Q124757"]}}
+{"cause": {"label": "dispute", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "resignation", "id": ["Q796919"]}}
+{"cause": {"label": "outbreak", "id": ["Q3241045", "Q44512"]}, "effect": {"label": "illness", "id": ["Q12136"]}}
+{"cause": {"label": "scandals", "id": ["Q192909"]}, "effect": {"label": "resignation", "id": ["Q796919"]}}
+{"cause": {"label": "protest", "id": ["Q175331", "Q273120"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "dispute", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "shooting", "id": ["Q2252077"]}}
+{"cause": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}, "effect": {"label": "trial", "id": ["Q8016240"]}}
+{"cause": {"label": "revolution", "id": ["Q10931", "Q1673271"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "disruption", "id": ["Q2956685"]}}
+{"cause": {"label": "hazard", "id": ["Q1132455"]}, "effect": {"label": "incident", "id": ["Q18669875"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "incidents", "id": ["Q18669875"]}}
+{"cause": {"label": "protests", "id": ["Q273120"]}, "effect": {"label": "uprising", "id": ["Q124734"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "riots", "id": ["Q124757"]}}
+{"cause": {"label": "riot", "id": ["Q124757"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "riot", "id": ["Q124757"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "disputes", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "scandal", "id": ["Q192909"]}, "effect": {"label": "controversy", "id": ["Q1255828"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "interruption", "id": ["Q2956685"]}}
+{"cause": {"label": "eruption", "id": ["Q7692360"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "looting", "id": ["Q192623"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "rally", "id": ["Q175331"]}, "effect": {"label": "controversy", "id": ["Q1255828"]}}
+{"cause": {"label": "eruption", "id": ["Q7692360"]}, "effect": {"label": "earthquakes", "id": ["Q7944"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "fire", "id": ["Q168983"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "vandalism", "id": ["Q6160"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "disasters", "id": ["Q3839081"]}}
+{"cause": {"label": "fraud", "id": ["Q28813"]}, "effect": {"label": "collapse", "id": ["Q1309431"]}}
+{"cause": {"label": "hazard", "id": ["Q1132455"]}, "effect": {"label": "illness", "id": ["Q12136"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "disruption", "id": ["Q2956685"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "suicide", "id": ["Q10737"]}, "effect": {"label": "suicide", "id": ["Q10737"]}}
+{"cause": {"label": "protests", "id": ["Q273120"]}, "effect": {"label": "looting", "id": ["Q192623"]}}
+{"cause": {"label": "protests", "id": ["Q273120"]}, "effect": {"label": "arson", "id": ["Q327541"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "avalanche", "id": ["Q7935"]}}
+{"cause": {"label": "protest", "id": ["Q175331", "Q273120"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}, "effect": {"label": "execution", "id": ["Q3966286"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "fraud", "id": ["Q28813"]}, "effect": {"label": "fraud", "id": ["Q28813"]}}
+{"cause": {"label": "wars", "id": ["Q198"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "shortage", "id": ["Q1337691", "Q815758"]}, "effect": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}}
+{"cause": {"label": "calamity", "id": ["Q3839081"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "shooting", "id": ["Q2252077"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "illness", "id": ["Q12136"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "attacks", "id": ["Q2001676"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "earthquakes", "id": ["Q7944"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "incident", "id": ["Q18669875"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "conflagration", "id": ["Q168983"]}}
+{"cause": {"label": "blast", "id": ["Q179057"]}, "effect": {"label": "tsunami", "id": ["Q8070"]}}
+{"cause": {"label": "fraud", "id": ["Q28813"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "blast", "id": ["Q179057"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "blast", "id": ["Q179057"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "wars", "id": ["Q198"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "avalanches", "id": ["Q7935"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "collapse", "id": ["Q1309431"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "massacre", "id": ["Q3199915"]}}
+{"cause": {"label": "catastrophe", "id": ["Q3839081"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "catastrophe", "id": ["Q3839081"]}}
+{"cause": {"label": "bombing", "id": ["Q678146", "Q891854"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "dispute", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}}
+{"cause": {"label": "arson", "id": ["Q327541"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "tsunami", "id": ["Q8070"]}, "effect": {"label": "disruption", "id": ["Q2956685"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "earthquake", "id": ["Q7944"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "fraud", "id": ["Q28813"]}}
+{"cause": {"label": "homicide", "id": ["Q149086"]}, "effect": {"label": "suicide", "id": ["Q10737"]}}
+{"cause": {"label": "disasters", "id": ["Q3839081"]}, "effect": {"label": "epidemics", "id": ["Q44512"]}}
+{"cause": {"label": "disaster", "id": ["Q3839081"]}, "effect": {"label": "unemployment", "id": ["Q41171"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "calamity", "id": ["Q3839081"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "disasters", "id": ["Q3839081"]}, "effect": {"label": "flooding", "id": ["Q8068"]}}
+{"cause": {"label": "dispute", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "incident", "id": ["Q18669875"]}}
+{"cause": {"label": "riot", "id": ["Q124757"]}, "effect": {"label": "injury", "id": ["Q193078"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "epidemics", "id": ["Q44512"]}, "effect": {"label": "disease", "id": ["Q12136"]}}
+{"cause": {"label": "tremor", "id": ["Q7944"]}, "effect": {"label": "collapse", "id": ["Q1309431"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "collapse", "id": ["Q1309431"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "wound", "id": ["Q193078"]}}
+{"cause": {"label": "quake", "id": ["Q7944"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "coup", "id": ["Q45382"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "mishap", "id": ["Q171558"]}, "effect": {"label": "damage", "id": ["Q554774"]}}
+{"cause": {"label": "conflicts", "id": ["Q180684"]}, "effect": {"label": "conflicts", "id": ["Q180684"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "blast", "id": ["Q179057"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "reaction", "id": ["Q31983622"]}}
+{"cause": {"label": "wars", "id": ["Q198"]}, "effect": {"label": "wars", "id": ["Q198"]}}
+{"cause": {"label": "scandal", "id": ["Q192909"]}, "effect": {"label": "scandal", "id": ["Q192909"]}}
+{"cause": {"label": "quake", "id": ["Q7944"]}, "effect": {"label": "explosion", "id": ["Q179057"]}}
+{"cause": {"label": "scandal", "id": ["Q192909"]}, "effect": {"label": "impeachment", "id": ["Q480498"]}}
+{"cause": {"label": "fraud", "id": ["Q28813"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "disaster", "id": ["Q3839081"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "accident", "id": ["Q171558"]}}
+{"cause": {"label": "suicide", "id": ["Q10737"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "theft", "id": ["Q2727213"]}, "effect": {"label": "theft", "id": ["Q2727213"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "sickness", "id": ["Q12136"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "infection", "id": ["Q18123741"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "suicide", "id": ["Q10737"]}}
+{"cause": {"label": "misfortune", "id": ["Q171558"]}, "effect": {"label": "bankruptcy", "id": ["Q152074"]}}
+{"cause": {"label": "demonstrations", "id": ["Q273120"]}, "effect": {"label": "disruption", "id": ["Q2956685"]}}
+{"cause": {"label": "impeachment", "id": ["Q480498"]}, "effect": {"label": "trial", "id": ["Q8016240"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "disintegration", "id": ["Q152074"]}}
+{"cause": {"label": "scandals", "id": ["Q192909"]}, "effect": {"label": "reforms", "id": ["Q900406"]}}
+{"cause": {"label": "demonstration", "id": ["Q175331", "Q273120"]}, "effect": {"label": "sensation", "id": ["Q3955369"]}}
+{"cause": {"label": "suicide", "id": ["Q10737"]}, "effect": {"label": "disorders", "id": ["Q12136"]}}
+{"cause": {"label": "mishap", "id": ["Q171558"]}, "effect": {"label": "deaths", "id": ["Q4"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "reaction", "id": ["Q31983622"]}}
+{"cause": {"label": "disasters", "id": ["Q3839081"]}, "effect": {"label": "famine", "id": ["Q168247"]}}
+{"cause": {"label": "accident", "id": ["Q171558"]}, "effect": {"label": "wound", "id": ["Q193078"]}}
+{"cause": {"label": "attack", "id": ["Q2001676", "Q1174599"]}, "effect": {"label": "protests", "id": ["Q273120"]}}
+{"cause": {"label": "revolution", "id": ["Q10931", "Q1673271"]}, "effect": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}}
+{"cause": {"label": "protests", "id": ["Q273120"]}, "effect": {"label": "revolution", "id": ["Q10931", "Q1673271"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "wounds", "id": ["Q193078"]}}
+{"cause": {"label": "crime", "id": ["Q83267"]}, "effect": {"label": "disorder", "id": ["Q12136"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "conflicts", "id": ["Q180684"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "accident", "id": ["Q171558"]}}
+{"cause": {"label": "revolution", "id": ["Q10931", "Q1673271"]}, "effect": {"label": "war", "id": ["Q198"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "scarcity", "id": ["Q815758"]}}
+{"cause": {"label": "suicide", "id": ["Q10737"]}, "effect": {"label": "loneliness", "id": ["Q223270"]}}
+{"cause": {"label": "explosion", "id": ["Q179057"]}, "effect": {"label": "flooding", "id": ["Q8068"]}}
+{"cause": {"label": "disagreement", "id": ["Q180684", "Q1255828"]}, "effect": {"label": "violence", "id": ["Q124490"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "earthquakes", "id": ["Q7944"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "phenomenon", "id": ["Q483247"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "disorders", "id": ["Q12136"]}}
+{"cause": {"label": "misfortune", "id": ["Q171558"]}, "effect": {"label": "death", "id": ["Q4"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "diseases", "id": ["Q12136"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "reactions", "id": ["Q31983622"]}}
+{"cause": {"label": "earthquakes", "id": ["Q7944"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "murder", "id": ["Q132821", "Q4676786", "Q149086"]}, "effect": {"label": "trauma", "id": ["Q193078"]}}
+{"cause": {"label": "suicide", "id": ["Q10737"]}, "effect": {"label": "illness", "id": ["Q12136"]}}
+{"cause": {"label": "war", "id": ["Q198"]}, "effect": {"label": "conquest", "id": ["Q194465", "Q1361229"]}}
+{"cause": {"label": "earthquake", "id": ["Q7944"]}, "effect": {"label": "eruption", "id": ["Q7692360"]}}
+{"cause": {"label": "offense", "id": ["Q83267"]}, "effect": {"label": "injuries", "id": ["Q193078"]}}
+{"cause": {"label": "infection", "id": ["Q18123741"]}, "effect": {"label": "attacks", "id": ["Q2001676"]}}
+{"cause": {"label": "conflict", "id": ["Q180684", "Q198", "Q350604"]}, "effect": {"label": "murders", "id": ["Q132821"]}}
+{"cause": {"label": "scandal", "id": ["Q192909"]}, "effect": {"label": "death", "id": ["Q4"]}}

@@ -1,0 +1,6 @@
+black == 23.3.0 
+pytablewriter == 0.64.2
+cuda-python == 11.8.0
+transformers == 4.28.1
+torchvision == 0.15.0
+pytorch == 2.0.0
