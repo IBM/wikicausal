@@ -31,6 +31,40 @@ Our evaluation framework consists of:
   - Recall results version 1: [results/recall-v1.md](results/recall-v1.md)
   - Precision results version 1: [results/precision-v1.md](results/precision-v1.md)
 
+## Installation
+
+Requirements: you need Python 3.8+ to run the evaluation scripts. To run with CPU only (tested on a Mac):
+```
+git clone git@github.com:IBM/wikicausal.git
+cd wikicausal
+pip install -r requirements.txt
+```
+To run with GPUs, do `pip install -r requirements-gpu.txt` instead (tested on x86_64 Linux).
+
+## Instructions
+
+To run recall evaluation:
+```
+python scripts/recall.py
+```
+To run precision evaluation:
+```
+python scripts/precision.py
+```
+Run with `--help` to see a list of arguments:
+```
+optional arguments:
+  -h, --help            show this help message and exit
+  -b BASE_KG_FILE, --base_kg_file BASE_KG_FILE
+                        Base KG file.
+  -i INPUT_KG_FILE, --input_kg_file INPUT_KG_FILE
+                        Input automatically-constructed KG for evaluation.
+  -o OUTPUT_FILE, --output_file OUTPUT_FILE
+                        Output CSV file.
+  -m OUTPUT_MD, --output_md OUTPUT_MD
+                        Output Markdown file.
+```
+
 ## Citation
 
 ```
