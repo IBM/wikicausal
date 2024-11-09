@@ -68,12 +68,11 @@ optional arguments:
 ## Citation
 
 ```
-@unpublished{,
-  author    = {Oktie Hassanzadeh and
-               Mark Feblowitz},
-  title     = {{WikiCausal}: Corpus and Evaluation Framework for Causal Knowledge Graph Construction},
-  year      = {2023},
-  doi       = {10.5281/zenodo.7897996}
+@misc{wikicausal,
+      title={WikiCausal: Corpus and Evaluation Framework for Causal Knowledge Graph Construction}, 
+      author={Oktie Hassanzadeh},
+      year={2024},
+      url={https://arxiv.org/abs/2409.00331}, 
 }
 ```
 
